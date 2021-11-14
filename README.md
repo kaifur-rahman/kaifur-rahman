@@ -30,6 +30,8 @@
 *Note: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.*
 
 
+## Connect
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kaifur-rahman/) &nbsp; &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:rahmankaifur8@gmail.com) &nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kaifur__rahman/)
 
 
 <!---
