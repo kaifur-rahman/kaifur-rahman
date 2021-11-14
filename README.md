@@ -18,7 +18,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaifur-rahman&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--streaks stats-->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaifur-rahman&theme=dark&ring=DFE63C)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaifur-rahman&theme=dark&ring=DFE63C&currStreakLabel=DFE63C)](https://git.io/streak-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaifur-rahman&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
