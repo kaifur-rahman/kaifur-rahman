@@ -12,7 +12,7 @@
 ## Skills
 1. **Web Development**
       - Frontend : HTML5 | CSS3 | Bootstrap | Javascript | Jquery 
-      - Backend  : Node.js | Express.js
+      - Backend  : Node.js | Express.js | MongoDB | EJS | Mongoose
 2. **Python Basics**
 
 3. **Designing**
