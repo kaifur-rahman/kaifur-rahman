@@ -13,7 +13,7 @@
 1. **Web Development**
       - Frontend : HTML5 | CSS3 | Bootstrap | Javascript | Jquery 
       - Backend  : Node.js | Express.js | MongoDB | EJS | Mongoose
-2. **Python Basics**, **C ** & C++**
+2. **Python Basics**, **C  & C++**
 
 3. **Designing**
       - Canva
