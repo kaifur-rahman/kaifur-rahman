@@ -11,12 +11,11 @@
 
 ## Skills
 1. **Web Development**
-      - Frontend : HTML5 | CSS3 | Bootstrap | Javascript | Jquery 
-      - Backend  : Node.js | Express.js | MongoDB | EJS | Mongoose
-2. **Python Basics**, **C  & C++**
+      - Frontend : HTML5 | CSS3 | Bootstrap | Javascript | Jquery | React | Material UI
+      - Backend  : Node.js | Express.js | MongoDB | Mongoose|  EJS | Mongoose
+      
+2. **Python Basics**, **C, C++, Object Oriented Programming in C, Java**
 
-3. **Designing**
-      - Canva
 ## Statistics
 <!--github_stats-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaifur-rahman&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
