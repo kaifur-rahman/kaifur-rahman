@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in web application and software development as well as competitive coding ...
 
-- 💡  I’m currently learning full stack web development and other frameworks...
+- 💡  I’m having 1.5 years of experience in full stack web development and other frameworks...
 
 - 💞️ I’m looking to collaborate on projects based on web applications...
 
@@ -11,8 +11,8 @@
 
 ## Skills
 1. **Web Development**
-      - Frontend : HTML5 | CSS3 | Bootstrap | Javascript | Jquery | React | Material UI
-      - Backend  : Node.js | Express.js | MongoDB | Mongoose|  EJS | Mongoose
+      - Frontend : HTML5 | CSS3 | Bootstrap | Javascript | Jquery | ReactJs | Material UI
+      - Backend  : Node.js | Express.js | MongoDB | Mongoose|  EJS | Mongoose 
       
 2. **Python Basics**, **C, C++, Object Oriented Programming in C, Java**
 
