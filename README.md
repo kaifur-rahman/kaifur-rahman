@@ -3,7 +3,7 @@
 <p align="center">🚀 Full-Stack Developer | Problem Solver | Innovator</p>
 
 <ul>
-  <li>🎓 <strong>Pursuing B.Tech</strong> in Computer Science with AI and Robotics at <em>VIT Chennai</em>.</li>
+  <li>🎓 <strong>B.Tech</strong> in Computer Science with AI and Robotics at <em>VIT Chennai</em>.</li>
   <li>💼 1.5 years of experience in web development and modern frameworks.</li>
   <li>🧠 Passionate about problem-solving and creating seamless web applications.</li>
 </ul>
